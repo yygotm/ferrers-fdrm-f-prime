@@ -1,0 +1,3 @@
+basis rank 6
+rank distribution over 15624 nonzero codewords: {7: 3048, 8: 12576}
+PASS [F',6,7]_5
